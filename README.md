@@ -59,10 +59,10 @@ I'm an **Informatics student** passionate about software development and technol
   <img src="https://streak-stats.demolab.com?user=Hashfian04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## Watch My Contributions Come Alive!
+## Thank you!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hashfian04/Hashfian04/main/.github/ping-pong.svg" alt="Retro Arcade Neon Pong" width="100%">
+  <img src="https://raw.githubusercontent.com/Hashfian04/Hashfian04/main/ping-pong.svg" alt="Retro Arcade Neon Pong" width="100%">
 </p>
 
 
