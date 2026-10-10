@@ -13,7 +13,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm an **Informatics student** passionate about software development and technology.
 
@@ -25,7 +25,7 @@ I'm an **Informatics student** passionate about software development and technol
 
 > _Learning by building, improving through practice._
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Web Technologies
 
@@ -48,7 +48,7 @@ I'm an **Informatics student** passionate about software development and technol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" title="Laravel" />
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hashfian04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -59,7 +59,7 @@ I'm an **Informatics student** passionate about software development and technol
   <img src="https://streak-stats.demolab.com?user=Hashfian04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🐍 Watch My Contributions Come Alive!
+## Watch My Contributions Come Alive!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hashfian04/Hashfian04/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
