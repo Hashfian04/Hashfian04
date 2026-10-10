@@ -62,7 +62,7 @@ I'm an **Informatics student** passionate about software development and technol
 ## Watch My Contributions Come Alive!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hashfian04/Hashfian04/main/.github/ping-pong.gif" alt="Retro Arcade Neon Pong" width="100%">
+  <img src="https://raw.githubusercontent.com/Hashfian04/Hashfian04/main/.github/ping-pong.svg" alt="Retro Arcade Neon Pong" width="100%">
 </p>
 
 
